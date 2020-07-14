@@ -48,3 +48,4 @@ ssr渲染步揍
 6.重新配置webpack打包文件vue.config.js
 7.需要一个模板文件（pubilc/index.temp.html必须一样）
 8.修改package.json中script
+9.启动服务端运行src/server.index.js
